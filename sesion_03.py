@@ -51,3 +51,10 @@ else:
 # miercoles
 # jueves
 # viernes 
+
+count = 0
+while count < 3:
+    for i in mi_lista_2:
+        if i != "lunes":
+            print(i)
+    count += 1
