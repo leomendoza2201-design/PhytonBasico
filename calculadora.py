@@ -29,4 +29,4 @@ if operacion == "*":
 
 if operacion == "/":
     resultado = calculadora(num_1, num_2, operacion)
-    print("El resultado es: ", resultado)s
+    print("El resultado es: ", resultado)
